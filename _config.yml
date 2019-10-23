@@ -1,7 +1,7 @@
 # Site
-title:              Massively
-bio:                'Jekyll version of the Massively theme by HTML5UP'
-description:        "Jekyll version of the Massively theme by HTML5UP"
+title:              With Cheese
+bio:                'Thoughts about fatherhood and the world'
+description:        ""
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
@@ -11,14 +11,14 @@ disqus_shortname:   default
 
 # Social
 analytics-id:       "default"
-twitter:            default
-facebook:           default
-instagram:          default
-github:             default
+twitter:            https://twitter.com/wtf_dragon
+facebook:           https://facebook.com/kenneth.kully
+instagram:          https://instagram.com/wtf_dragon
+github:             https://github.com/wtfdragon
 
 # personal
-location:           Los Angeles, CA
-phone:              310-318-5555
+location:           Alberta, Canada
+phone:              780-238-3993
 email:              info@default.com # change this to your email to receive free emails for your contact submissions via Slapform.com
 
 # Other
