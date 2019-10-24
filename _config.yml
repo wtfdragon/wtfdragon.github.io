@@ -11,15 +11,15 @@ disqus_shortname:   default
 
 # Social
 analytics-id:       "default"
-twitter:            https://twitter.com/wtf_dragon
-facebook:           https://facebook.com/kenneth.kully
-instagram:          https://instagram.com/wtf_dragon
-github:             https://github.com/wtfdragon
+twitter:            thecheesecast
+facebook:           thecheesecast
+instagram:          thecheesecast
+anchor:             thecheesecast
 
 # personal
 location:           Alberta, Canada
 phone:              780-238-3993
-email:              info@default.com # change this to your email to receive free emails for your contact submissions via Slapform.com
+email:              avec.fromage@outlook.com # change this to your email to receive free emails for your contact submissions via Slapform.com
 
 # Other
 background_image:   /images/bg.jpg
