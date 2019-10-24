@@ -2,7 +2,7 @@
 layout: post
 title:  "Mobile Post from Dropbox (Paper?)"
 date:   2019-10-23
-excerpt: "Huge thanks to HTML5 UP for making this awesome template! Let's see what it can do"
+excerpt: "If I can't do it when I'm mobile as well as when I'm not, odds are high it won't get done."
 image: "/images/pic02.jpg"
 ---
 
