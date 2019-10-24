@@ -12,7 +12,7 @@ is easy enough once hosting has been purchased, or a free account signed up for.
 to be sure.
 
 But Wordpress does have its security woes, and the developers do keep changing things...and the not always for the
-better (seriously, was it necessary to go to a [Weebly](https://weebly.com)-style posting interface? Plus, it's fun to
+better (seriously, was it necessary to go to a [Weebly](https://weebly.com)-style posting interface?). Plus, it's fun to
 try and roll your own solution, which is where technologies like [Jekyll](https://jekyllrb.com/). Of course, to update
 a Jeykll-based site on the go isn't as user-friendly, though if one is using [GitHub](https://github.com) to host one's
 blog, then an option or two present themselves.
